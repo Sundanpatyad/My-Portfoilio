@@ -295,7 +295,7 @@ background: radial-gradient(circle, rgb(41, 42, 44) 0%, rgb(11, 11, 11) 100%);
 
     #image-div {
         height: 45vmax;
-        width: 75vw;
+        width: 85vw;
         /* border-radius: 50%; */
         /* background-color: red; */
         overflow: hidden;
